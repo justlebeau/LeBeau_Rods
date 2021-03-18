@@ -1,0 +1,12 @@
+---
+title: Bamboo and Heat
+author: George LeBeau
+date: '2021-03-18'
+slug: []
+categories: []
+tags: []
+featured_image: ''
+description: ''
+---
+
+## This is another post about bamboo and heat
