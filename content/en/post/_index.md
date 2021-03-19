@@ -1,5 +1,7 @@
 ---
 date: "2017-03-02T12:00:00-05:00"
-title: Articles
+description: Here are the few latest posts
+featured_image: /images/gohugo-default-sample-hero-image1.png
+title: Posts
 ---
-Articles are paginated with only three posts here for example. You can set the number of entries to show on this page with the "pagination" setting in the config file.
+

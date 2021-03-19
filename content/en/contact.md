@@ -1,5 +1,5 @@
 ---
-description: We'd love to hear from you
+description: I'd love to hear from you
 featured_image: images/notebook.jpg
 menu: main
 omit_header_text: true
@@ -8,6 +8,6 @@ type: page
 ---
 
 
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
+If you're interested in a custom rod send me an email and I'll get back with you as soon as I'm away from the workbench.
 
 {{< form-contact action="https://example.com"  >}}

@@ -1,6 +1,6 @@
 ---
-description: The last theme you'll ever need. Maybe.
-featured_image: /images/gohugo-default-sample-hero-image.jpg
-title: 'Ananke: a Hugo Theme'
+description: Craft bamboo fly rods and musings on God
+featured_image: /images/gohugo-default-sample-hero-image1.png
+title: 'LeBeau Rods' 
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Welcome to my blog with some of my work in progress. I've been working on several different rods and you can see the progress here.
